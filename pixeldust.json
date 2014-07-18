@@ -22,7 +22,7 @@
         "background": "http://i.imgur.com/gQTAwbw.png",
         "booth": "http://i.imgur.com/IhvWnUb.png",
         },
-        "playback": "http://i.imgur.com/ri3acQM.png"
+        "playback": "http://i.imgur.com/ri3acQM.png",
     },
     "rules": {
         "allowAutojoin": "true",
