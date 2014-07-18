@@ -21,14 +21,6 @@
     "images": {
         "background": "http://i.imgur.com/gQTAwbw.png",
         "booth": "http://i.imgur.com/IhvWnUb.png",
-        "icons": {
-            "admin": "",
-            "ambassador": "",
-            "bouncer": "",
-            "cohost": "",
-            "residentdj": "",
-            "host": "",
-            "manager": ""
         },
         "playback": "http://i.imgur.com/ri3acQM.png"
     },
